@@ -1,0 +1,35 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1488998427799-e3362cec87c3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fHN0dWR5fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login{
+    margin-top: 20%;
+    margin-left: 30%;
+    background-color: whitesmoke;
+    padding: 20px;
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.registrujSe{
+    margin-top: 5%;
+    margin-left: 30%;
+    background-color: whitesmoke;
+    padding: 20px;
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.registrujSe2{
+    margin-top: 5%;
+    margin-left: 10%;
+    background-color: whitesmoke;
+    padding: 20px;
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
